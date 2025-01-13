@@ -25,4 +25,3 @@ $(document).ready(function () {
     // Initial call to display time immediately
     displayTime();
 });
-Co
